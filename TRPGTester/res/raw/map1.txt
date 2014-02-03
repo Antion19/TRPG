@@ -1,0 +1,38 @@
+! Antion19
+! -Prologue Map
+!
+! dimensions = 30 x 30
+! a = indoorfloorbasic
+! b = indoorfloorfancy
+! c = column
+! d = wall
+dddddddddddddddddddddddddddddd
+dccccccccccccccccccccccccccccd
+dcaaaaaaaaaaaaaaaaaaaaaaadaacd
+dcaaaaaaaaaaaaaaaaaaaaaaaaaacd
+dcaaaaabaaaaaaaaaaaaaaaaaaaacd
+dcaaaaaaaaaaaaaaaaaaaaaaaaaacd
+dcaaaaaaaaaaaaaaaaaaaaaaaaaacd
+dcaaaaabbbbbbbbbbbbbbbbaaaaacd
+dcaaaaabbbbbbbbbbbbbbbbaaaaacd
+dcaaaaabbbbbbbbbbbbbbbbaaaaacd
+dcaaaaabbbccccccccccbbbaaaaacd
+dcaaaaabbbcbbbbbbbbcbbbaaaaacd
+dcaaaaabbbcbbbbbbbbcbbbaaaaacd
+dcaaaaabbbcbbcaacbbcbbbaaaaacd
+dcaaaaabbbcbbaaaabbcbbbaaaaacd
+dcaaaaabbbcbbaaaabbcbbbaaaaacd
+dcaaaaabbbcbbcaacbbcbbbaaaaacd
+dcaaaaabbbcbbbbbbbbcbbbaaaaacd
+dcaaaaabbbcbbbbbbbbcbbbaaaaacd
+dcaaaaabbbccccccccccbbbaaaaacd
+dcaaaaabbbbbbbbbbbbbbbbaaaaacd
+dcaaaaabbbbbbbbbbbbbbbbaaaaacd
+dcaaaaabbbbbbbbbbbbbbbbaaaaacd
+dcaaaaaaaaaaaaaaaaaaaaaaaaaacd
+dcaaaaaaaaaaaaaaaaaaaaaaaaaacd
+dcaadaaaaaaaaaaaaaaaaaaaaaaacd
+dcaaaaaaaaaaaabaaaaaaaaaaaaacd
+dcaaaaaaaaaaaaaaaaaaaaaaaaaacd
+dccccccccccccccccccccccccccccd
+dddddddddddddddddddddddddddddd

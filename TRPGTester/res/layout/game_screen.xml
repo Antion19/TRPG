@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    android:weightSum="5" >
+
+    <antion19.newcomponents.TwoDScrollView
+        android:id="@+id/gameScrollView2D"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="3" >
+
+        <antion19.trpg.mapcomponents.MapView
+            android:id="@+id/gameMapView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </antion19.trpg.mapcomponents.MapView>
+    </antion19.newcomponents.TwoDScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="2"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:weightSum="3" >
+
+        <ScrollView
+            android:id="@+id/gameScrollView1D"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="2" >
+
+            <TextView
+                android:id="@+id/gameInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/turquoise" >
+            </TextView>
+        </ScrollView>
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:weightSum="5" >
+
+            <Button
+                android:id="@+id/bMove"
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:onClick="bMovePressed"
+                android:text="@string/bMove" >
+            </Button>
+
+            <Button
+                android:id="@+id/bAttack"
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:onClick="bAttackPressed"
+                android:text="@string/bAttack" >
+            </Button>
+
+            <Button
+                android:id="@+id/bNextCharacter"
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:onClick="bNextCharacterPressed"
+                android:text="@string/bNextCharacter" >
+            </Button>
+
+            <Button
+                android:id="@+id/bChangeable"
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:onClick="bChangeable" >
+            </Button>
+
+            <Button
+                android:id="@+id/bEndRound"
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:onClick="bEndRoundPressed"
+                android:text="@string/bEndRound" >
+            </Button>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

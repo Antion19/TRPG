@@ -1,0 +1,40 @@
+! Antion19
+! -Test Map
+!
+! dimensions = 25 x 28
+! b = indoorfloorbasic
+! c = column
+! d = dirt
+! f = indoorfloorfancy
+! g = grass
+! p = pit
+! t = tree
+! w = wall
+wwwwwwwwgggggggggwwwwwwww
+wbbbbbbwwgtgggtgwwbbbbbbw
+wbcbbpbbwgggggggwbbpbbcbw
+wbbcbpbbdddddddddbbpbcbbw
+wbcbbpbbwgggdgggwwbpbbcbw
+wbbbbbbwwgggdggggwbbbbbbw
+wwwwwwwwggggdggggwwwwwwww
+ggggggggggggdgggggggggggg
+ggggggggtggdddggtgggggggg
+ggggggggggddgddgggggggggg
+gggggggggddgggddggggggggg
+tgtgtgtgddgggggddgggggggg
+gtgtgtgddggggggddgggggggg
+tgtgtgtddggggggddgggggggg
+ddddddddggggggwffwggggggg
+dddddddtggggwwwffwwwwwwww
+tgtgtgtgggwwwfffffffffffw
+gtgtgtgggwwffffffpffffffw
+tgtgtgggwwfffffffpffffffw
+gtgtgggwwffffffffpffffffw
+tgtgggwwfffffffffpffffffw
+gtggwwwffffffffffpffffffw
+tggwwfffpppppppppppppppfw
+ggwwfffffffpffffffffffffw
+wwwffffffffpffffffffffffw
+wffffffffffpffffffffffffw
+wfffffffffffffffffffffffw
+wwwwwwwwwwwwwwwwwwwwwwwww
